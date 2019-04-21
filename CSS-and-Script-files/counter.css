@@ -50,6 +50,7 @@ h2 {
     border-radius: 8px;
     border: none;
     font-weight: bold;
+    outline: none;
 }
 
 .button1:hover {
