@@ -41,15 +41,15 @@ h2 {
 .inner_div {
     display: flex;
     flex-direction: row;
-    width: 250px;
+    width: 180px;
     justify-content: space-evenly;
     align-items: flex-end;
 }
 
 @media (max-width: 320px) {
     .inner_div {
-        width: 80%;
-        justify-content: space-evenly;
+        /* width: 80%; */
+        /* justify-content: space-evenly; */
     }
 }
 
